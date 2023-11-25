@@ -1,0 +1,87 @@
+/* @font-face {
+    font-family: inter;
+    src: url("C:\Users\ahusi\Downloads\Inter") format('truetype');
+}
+
+div{
+    font-family: inter;
+} */
+
+.container {
+    padding: 0;
+    background: #6943FF;
+    margin: 0;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    padding: 20px;
+    margin:0;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+h2 {
+    color: #5A537B;
+}
+
+p {
+    color: #353535;
+}
+
+body {
+    margin:0;
+}
+
+.converter-container {
+    flex-direction: column;
+    background-color: rgb(235, 235, 235);
+    height: 1000px;
+    padding: 20px;
+}
+
+.converted-units {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    margin-top: 20px;
+}
+
+#btn-container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0;
+}
+
+.btn {
+    width: 100px;
+    margin: auto;
+    margin-bottom: 15px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding: 7px; 
+    font-weight: 500;
+}
+
+input {
+    width: 90px;
+    height: 60px;
+    border-radius: 5px;
+    margin: auto;
+    background-color: #6943FF;
+    border: 2px solid white;
+    font-weight: 800;
+    color: whitesmoke;
+    font-size: 28px;
+    line-height: 38px;
+    text-align: center;
+}
+
+

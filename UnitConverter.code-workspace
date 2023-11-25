@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Inter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Converter"
+	}
+}
